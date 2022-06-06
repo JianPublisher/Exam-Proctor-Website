@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    
+    background: #d2f8f8;
+  }
+  
+  /* Header */
+  .header {
+    padding: 30px;
+    text-align: center;
+    background: #aeadad;
+    position:sticky;
+    top:0;
+    margin-bottom:50px;
+  }
+  
+  .header h1 {
+    font-size: 50px;
+  }
+  
+  /* Style the top navigation bar */
+  .topnav {
+    padding:20px;
+    height:50px;
+    overflow: hidden;
+    background-color:  #00aeff;
+    color: white;
+    
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .testbox{
+      margin:auto;
+      height:400px;
+      width:80%;
+      border: 3px solid black;
+      background-color : #f1f1f1;
+  }
+
+  .about-me{
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.about-col{
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+.about-col h1{
+    padding-top: 0;
+}
+.about-col p{
+    padding: 15px 0 25px;
+}
+.hero-btn {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 12px 34px;
+  font-size: 13px;
+  background: turquoise;
+  position: relative;
+  cursor: pointer;
+  transition: 1s;
+}ion: 1s;
+}
