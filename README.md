@@ -26,6 +26,9 @@ FAQS:
 MYPAGE:
 ![image](https://user-images.githubusercontent.com/106943337/172092652-1351435c-696a-46e1-9c35-2d435750354f.png)
 
+Exam Room:
+![image](https://user-images.githubusercontent.com/106943337/172095122-506ed6fe-89f9-4c94-bf45-9919241b4254.png)
+
 
 Exam Meeting:
 ![image](https://user-images.githubusercontent.com/106943337/172092497-294bc859-fa48-4b30-934b-0af6f071dc72.png)
